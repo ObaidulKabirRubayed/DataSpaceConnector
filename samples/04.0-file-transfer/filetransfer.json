@@ -1,10 +1,10 @@
 {
   "protocol": "ids-multipart",
   "assetId": "test-document",
-  "contractId": "{agreement ID}",
+  "contractId": "1:8d85a113-11b0-46d9-ad87-0333da23ee59",
   "dataDestination": {
     "properties": {
-      "path": "{path to destination file}",
+      "path": "/tmp/consumer/transferred-document.txt",
       "keyName": "keyName",
       "type": "File"
     }
